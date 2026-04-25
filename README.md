@@ -7,7 +7,8 @@ Built with transfer learning using MobileNetV2 for fast and accurate predictions
 ---
 
 ## 🚀 Demo
-Upload an image and get instant AI prediction with confidence score.
+
+![alt text](assets/UI.png)
 
 ---
 
