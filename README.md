@@ -41,7 +41,7 @@ Upload an image and get instant AI prediction with confidence score.
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/7odam7amed/cats-vs-dogs
+git clone https://github.com/7odam7amed/cats-vs-dogs-image-classifier
 cd cats-vs-dogs
 pip install -r requirements.txt
 streamlit run streamlit.py
