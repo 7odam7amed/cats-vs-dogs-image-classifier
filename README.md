@@ -45,4 +45,4 @@ Built with transfer learning using MobileNetV2 for fast and accurate predictions
 git clone https://github.com/7odam7amed/cats-vs-dogs-image-classifier
 cd cats-vs-dogs
 pip install -r requirements.txt
-streamlit run streamlit.py
+streamlit run "app/streamlit.py"
